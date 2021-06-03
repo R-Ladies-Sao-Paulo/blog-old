@@ -1,25 +1,33 @@
 ---
-description: Thank you to all the contributors!
+description: Página de pessoas contribuidoras
 draft: false
 layout: standard
 show_title_as_headline: true
-title: Contributors
+title: Pessoas contribuidoras
 ---
 
-Thank you to all the folks who have contributed both technical and creative skills to this project:
+Pessoas responsáveis pelo desenvolvimento do blog:
 
-+ [Desirée De Leon :giraffe:](http://desiree.rbind.io/) (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
++ [Beatriz Milz](https://beatrizmilz.com/)
 
-+ [Garrick Aden-Buie :mage:](https://www.garrickadenbuie.com/) (debugged headroom.js and lent his panelset.js code to the theme)
++ [Jean Prado](https://twitter.com/jeangprado)
 
-+ [Allison Horst :dog2:](https://www.allisonhorst.com/) (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot :hedgehog:)
++ Em breve muitas mais :)
 
-+ [Maëlle Salmon :fishing_pole_and_fish:](https://masalmon.eu/) (help with features, and naming the theme [Hugo Apéro](https://hugo-apero.netlify.app/)!)
+Essas pessoas são responsáveis pelo desenvolvimento das ferramentas utilizadas nessa página: 
 
-+ [Christophe Dervieux :crayon:](http://cderv.rbind.io/) (thinking through blogdown/Hugo intricacies and syntax highlighting)
++ [Desirée De Leon :giraffe:](http://desiree.rbind.io/) 
 
-+ [Yihui Xie :martial_arts_uniform:](https://yihui.org/) (for the blogdown package, getting me hooked on Hugo, and helping me with layout code inspired by his many Hugo themes)
++ [Garrick Aden-Buie :mage:](https://www.garrickadenbuie.com/) 
 
-+ [Athanasia Monika Mowinckel :purple_heart:](https://drmowinckels.io/) (for help finding :bug: and SASS support for making color themes work so much better :art:)
++ [Allison Horst :dog2:](https://www.allisonhorst.com/) 
 
-And last but not least, Eric Anderson and the team at [Formspree](https://formspree.io/) for developing a Hugo theme with such great bones: <https://github.com/formspree/blogophonic-hugo>
++ [Maëlle Salmon :fishing_pole_and_fish:](https://masalmon.eu/)
+
++ [Christophe Dervieux :crayon:](http://cderv.rbind.io/) 
+
++ [Yihui Xie :martial_arts_uniform:](https://yihui.org/)
+
++ [Athanasia Monika Mowinckel :purple_heart:](https://drmowinckels.io/) 
+
++ [Eric Anderson and the team at Formspree](https://formspree.io/)

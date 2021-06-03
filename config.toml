@@ -115,52 +115,76 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
+    name = "Página Inicial"
+    title = "Página Inicial"
+    url = "/"
     weight = 1
+  [[menu.header]]
+    name = "Sobre"
+    title = "Sobre a R-Ladies SP"
+    url = "/about/"
+    weight = 2
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Faça parte!"
+    title = "Faça parte"
+    url = "/faca-parte/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Eventos"
+    title = "Eventos"
+    url = "/eventos/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
+    name = "Contato"
+    title = "Contato"
+    url = "/contato/"
     weight = 6
+#  [[menu.header]]
+#    name = "Projects"
+#    title = "Project Portfolio"
+#    url = "/project/"
+#    weight = 3
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 4
+#  [[menu.header]]
+#    name = "A collection"
+#    title = "A collection"
+#    url = "/collection/"
+#    weight = 5
+#  [[menu.header]]
+#    name = "Elements"
+#    title = "Element Page"
+#    url = "/elements/"
+#    weight = 6
+    #faça parte / meetups / contato
 
   # Configure footer
+
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
+    name = "Código de conduta"
+    title = "Código de conduta"
+    url = "/codigo-de-conduta/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
+    name = "Licença"
+    title = "Licença"
+    url = "/licenca/"
     weight = 2
   [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
+    name = "Pessoas contribuidoras"
+    title = "Pessoas contribuidoras"
     url = "/contributors/"
     weight = 3
+
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
